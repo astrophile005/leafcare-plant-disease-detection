@@ -1,0 +1,5 @@
+streamlit==1.65.0
+tensorflow==2.22.0rc0
+keras-nightly==3.16.0.dev2026100804
+pillow
+numpy
