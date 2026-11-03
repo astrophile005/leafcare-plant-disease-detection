@@ -8,6 +8,20 @@ to identify diseases in plant leaves.
 Users can upload an image or capture a picture using their camera. The application analyzes the leaf image and predicts
 the possible disease, helping users identify plant health issues at an early stage.
 
+## Application Screenshots
+
+### 1. Dashboard
+![LeafCare Dashboard](screenshots/dashboard.png)
+
+### 2. Disease Scanner
+![Disease Scanner](screenshots/scanner.png)
+
+### 3. Disease Library
+![Disease-Library](screenshots/Disease-Library.png)
+
+### 4. Scan History
+![scan-History](screenshots/scan-History.png)
+
 ## Objectives
 
 - Detect plant diseases using deep learning.
